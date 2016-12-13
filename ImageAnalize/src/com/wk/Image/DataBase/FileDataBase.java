@@ -11,7 +11,7 @@ import java.util.Map;
 import com.wk.Image.Tag.Poem;
 
 public class FileDataBase {
-	private String fileFullPath="C:\\Users\\wkhuahuo\\Desktop\\Hackathon2016\\PoemDataBase.txt";
+	private String fileFullPath="dataBase/PoemDataBase.txt";
 	public Map<String,Poem> keyandPoem = new HashMap<String, Poem>();
 	public Map<String,Poem> initFileDataBase(){
 		File file = new File(fileFullPath);

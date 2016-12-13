@@ -22,8 +22,8 @@ public class TagImage {
             // Request body
         	// String imgURL = "{\"url\":\"http://image.tianjimedia.com/uploadImages/2015/194/31/0HIE0OVD9FSI.jpg\"}" ;//bizhi
         	
-        	//	String imgURL = "{\"url\":\"http://imga1.pic21.com/bizhi/131129/04564/s10.jpg\"}" ;//成功,雪
-        		String imgURL = "{\"url\":\"http://imga1.pic21.com/bizhi/131118/04004/s01.jpg\"}" ;//成功,花
+        		String imgURL = "{\"url\":\"http://imga1.pic21.com/bizhi/131129/04564/s10.jpg\"}" ;//成功,雪
+        	//	String imgURL = "{\"url\":\"http://imga1.pic21.com/bizhi/131118/04004/s01.jpg\"}" ;//成功,花
         	//	String imgURL = "{\"url\":\"http://pic.58pic.com/58pic/15/23/95/48P58PICVrF_1024.jpg\"}" ;//鱼
         	//	String imgURL = "{\"url\":\"http://m2.quanjing.com/2m/nature008/nature1336052.jpg\"}";//鸟
         	
